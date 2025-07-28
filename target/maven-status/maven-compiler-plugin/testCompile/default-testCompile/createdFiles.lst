@@ -1,0 +1,6 @@
+config\ConfigReader.class
+utilities\ApiClient.class
+tests\AuthorTests.class
+tests\BooksTests.class
+models\Authors.class
+models\Books.class

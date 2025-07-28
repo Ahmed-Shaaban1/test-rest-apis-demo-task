@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="8" total="9" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-07-28T18:14:51 EEST" name="Default suite" finished-at="2025-07-28T18:14:55 EEST" duration-ms="3673">
+    <groups>
+    </groups>
+    <test started-at="2025-07-28T18:14:51 EEST" name="Default test" finished-at="2025-07-28T18:14:55 EEST" duration-ms="3673">
+      <class name="tests.BooksTests">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.BooksTests@23941fb4]" started-at="2025-07-28T18:14:51 EEST" name="setup" finished-at="2025-07-28T18:14:52 EEST" duration-ms="460" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testCreateBook_HappyPath()[pri:0, instance:tests.BooksTests@23941fb4]" started-at="2025-07-28T18:14:52 EEST" name="testCreateBook_HappyPath" finished-at="2025-07-28T18:14:55 EEST" duration-ms="3098" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateBook_HappyPath -->
+      </class> <!-- tests.BooksTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
